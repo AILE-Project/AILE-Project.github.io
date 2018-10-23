@@ -73,9 +73,7 @@ List of publications.
 ```
 ## **Acknowledgment**
 
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AILE-Project/AILE-Project.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+This research is supported by the International Collaboration Initiative launched by Research and Development Office [RDO](https://rdo.moe.gov.sa). Ministry of Education - Kingdom of Saudi Arabia.
 ### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more detail: msmars@uqu.edu.sa
