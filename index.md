@@ -21,8 +21,9 @@ The duration of the project is 3 Years.
 
 **Umm Al-Qura Unviersity - KSA**
 
-- Dr Mourad Mars https://homepage.com - automatic!
-- [Dr Khaled Hatem Motairi] (https://homepage.com)
+- Dr Mourad Mars
+- Dr Khaled Hatem Motairi 
+      (https://homepage.com)
 - [Dr Fahad AlDosari] (https://homepage.com)
 - [Dr Eisa ALanazi] (https://homepage.com)
 - [Dr Mazen Melibari] (https://homepage.com)
