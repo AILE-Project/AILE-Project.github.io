@@ -40,11 +40,10 @@ The duration of the project is 3 Years.
 ```
 ## **Project components**
 
-![Image](/component-Chatbot.jpg)
-![Image](/components-MT.jpg)
-![Image](/components-ASR.jpg)
-![Image](/components-IR.jpg)
-![Image](/components-LS.jpg)
+![Image](/Chatbot.jpg)
+![Image](/MT.jpg)
+![Image](/ASR.jpg)
+![Image](/IR.jpg)
 
 ## **Resources for the project**
 ```markdown
