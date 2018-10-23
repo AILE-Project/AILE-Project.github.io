@@ -1,6 +1,6 @@
 ![Image](/Project.jpg)
 
-## **General Overview **
+## General Overview
 
 AILE : Artificial Intelligence for Learning Enhacement
 
