@@ -1,4 +1,5 @@
 ## Welcome to AILE Project page
+![Image](/Project.jpg)
 
 AILE : Artificial Intelligence for Learning Enhacement
 
