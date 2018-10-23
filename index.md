@@ -38,6 +38,14 @@ The duration of the project is 3 Years.
 - Dr Fethi Bougares
 - Dr Loïc BARRAULT
 ```
+## **Project components**
+
+![Image](/component-Chatbot.jpg)
+![Image](/components-MT.jpg)
+![Image](/components-ASR.jpg)
+![Image](/components-IR.jpg)
+![Image](/components-LS.jpg)
+
 ## **Resources for the project**
 ```markdown
 Resources : Tools, datasets, etc.
