@@ -1,8 +1,11 @@
 ## Welcome to AILE Project page
 
-You can use the [editor on GitHub](https://github.com/AILE-Project/AILE-Project.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+AILE : Artificial Intelligence for Learning Enhacement
+This project intend to produce ground-breaking eLearning innovations. Our objective is to support the revolution in the way people interact with online content by developing the next-generation of eLearning environments based on the use of artificial intelligence; enabling learners to achieve unprecedented levels of access and efficiency.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Teaching is the process of knowledge and experience sharing. Nowadays, teaching is no more instructor-centered activity, in which knowledge is transmitted from an instructor to novice learners. Instead, teaching is rather seen a learner-centered activity where the teacher ensures that learning is made possible for novice learners through supports, guidance, and stimulation.
+
+Over the last few years, new technologies has result in a fundamental change in the education practices requiring new learning models which can adapt to each learner and at every skill level and therefore students are better equipped to learn on their own.
 ![Image](/AILE.jpg)
 
 ### Markdown
