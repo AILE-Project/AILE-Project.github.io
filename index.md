@@ -8,7 +8,7 @@ AILE : Artificial Intelligence for Learning Enhacement
 This project intend to produce ground-breaking eLearning innovations. Our objective is to support the revolution in the way people interact with online content by developing the next-generation of eLearning environments based on the use of artificial intelligence; enabling learners to achieve unprecedented levels of access and efficiency.
 
 
-![Image](/AILE.jpg)
+![Image](/AILE2.jpg)
 
 
 ## **General Informations**
