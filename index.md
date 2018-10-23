@@ -21,22 +21,22 @@ The duration of the project is 3 Years.
 
 **Umm Al-Qura Unviersity - KSA**
 
-- Dr Mourad Mars
-- Dr Khaled Hatem Motairi 
-- Dr Fahad AlDosari
-- Dr Eisa ALanazi
-- Dr Mazen Melibari
-- Dr Hana'a Yamani
+- Dr Mourad Mars (Principal Investigator | PI)
+- Dr Khaled Hatem Motairi (Co-Principal Investigator | Co-PI)
+- Dr Fahad AlDosari (Co-Principal Investigator | Co-PI)
+- Dr Eisa ALanazi (Co-Principal Investigator | Co-PI)
+- Dr Mazen Melibari (Co-Principal Investigator | Co-PI)
+- Dr Hana'a Yamani (Co-Principal Investigator | Co-PI)
 
 **CORK Institute of Thechnology & ADAPT Centre - Ireland**
 
-- Dr Haithem Afli
-- Dr Debasis Ganguly (Researcher - IBM Ireland)
+- Dr Haithem Afli (Co-Principal Investigator | Co-PI)
+- Dr Debasis Ganguly (Researcher | IBM Ireland)
 
 **LIUM Lab - Le Mans University - France**
 
-- Dr Fethi Bougares
-- Dr Loïc BARRAULT
+- Dr Fethi Bougares (Co-Principal Investigator | Co-PI)
+- Dr Loïc BARRAULT (Co-Principal Investigator | Co-PI)
 ```
 ## **Project components**
 
