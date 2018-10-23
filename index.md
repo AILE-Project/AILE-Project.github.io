@@ -1,5 +1,6 @@
 ![Image](/Project.jpg)
 
+## **General Overview **
 
 AILE : Artificial Intelligence for Learning Enhacement
 
@@ -39,16 +40,26 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 The duration of the project is 3 Years.
 
-### Collaborators
+### Collaborators & Team members
 
 **Umm Al-Qura Unviersity - KSA**
-**CORK Institute of Thechnology - Ireland**
-**ADAPT Centre - Ireland**
+
+- Dr Mourad Mars
+- Dr Khaled Hatem Motairi
+- Dr Fahad AlDosari
+- Dr Eisa ALanazi
+- Dr Mazen Melibari
+- Dr Hana Yamani
+
+**CORK Institute of Thechnology & ADAPT Centre - Ireland**
+
+- Dr Haithem Afli
+- Dr Debasis Ganguly (Researcher - IBM Ireland)
+
 **LIUM Lab - Le Mans University - France**
 
-### Team members
-
-The duration of the project is 3 Years.
+- Dr Fethi Bougares
+- Dr Loïc BARRAULT
 ```
 ## **Resources for the project**
 ```markdown
