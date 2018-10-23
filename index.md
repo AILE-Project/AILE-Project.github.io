@@ -27,7 +27,7 @@ The duration of the project is 3 Years.
 - Dr Eisa ALanazi (Co-PI)
 - Dr Mazen Melibari (Co-PI)
 - Dr Hana'a Yamani (Co-PI)
-- Dr Hassan As-Sabbagh
+- Dr Hassan As-Sabbagh (Co-PI)
 
 **CORK Institute of Thechnology & ADAPT Centre - Ireland**
 
