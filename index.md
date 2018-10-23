@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to AILE Project page
 
 You can use the [editor on GitHub](https://github.com/AILE-Project/AILE-Project.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
