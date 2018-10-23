@@ -34,21 +34,26 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## **General Informations**
+```markdown
 ### Duration
-```markdown
+
 The duration of the project is 3 Years.
-```
+
 ### Collaborators
-```markdown
-The duration of the project is 3 Years.
-```
+
+**Umm Al-Qura Unviersity - KSA**
+**CORK Institute of Thechnology - Ireland**
+**ADAPT Centre - Ireland**
+**LIUM Lab - Le Mans University - France**
 
 ### Team members
-```markdown
+
 The duration of the project is 3 Years.
 ```
 ## **Resources for the project**
-
+```markdown
+Resources : Tools, datasets, etc.
+```
 ## **Publications**
 ```markdown
 List of publications.
