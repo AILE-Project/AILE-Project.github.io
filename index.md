@@ -1,6 +1,7 @@
 ## Welcome to AILE Project page
 
 AILE : Artificial Intelligence for Learning Enhacement
+
 This project intend to produce ground-breaking eLearning innovations. Our objective is to support the revolution in the way people interact with online content by developing the next-generation of eLearning environments based on the use of artificial intelligence; enabling learners to achieve unprecedented levels of access and efficiency.
 
 Teaching is the process of knowledge and experience sharing. Nowadays, teaching is no more instructor-centered activity, in which knowledge is transmitted from an instructor to novice learners. Instead, teaching is rather seen a learner-centered activity where the teacher ensures that learning is made possible for novice learners through supports, guidance, and stimulation.
