@@ -26,7 +26,7 @@ The duration of the project is 3 Years.
 - Dr Fahad AlDosari
 - Dr Eisa ALanazi
 - Dr Mazen Melibari
-- Dr Hana Yamani
+- Dr Hana'a Yamani
 
 **CORK Institute of Thechnology & ADAPT Centre - Ireland**
 
