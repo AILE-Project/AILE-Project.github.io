@@ -37,14 +37,24 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Duration
 ```markdown
 The duration of the project is 3 Years.
-
-
+```
 ### Collaborators
+```markdown
+The duration of the project is 3 Years.
+```
+
 ### Team members
+```markdown
+The duration of the project is 3 Years.
+```
 ## **Resources for the project**
 
 ## **Publications**
-
+```markdown
+List of publications.
+1. ...
+2. ...
+```
 ## **Acknowledgment**
 
 
