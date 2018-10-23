@@ -21,22 +21,22 @@ The duration of the project is 3 Years.
 
 **Umm Al-Qura Unviersity - KSA**
 
-- Dr Mourad Mars msmars (at) uqu.edu.sa
-- Dr Khaled Hatem Motairi
-- Dr Fahad AlDosari
-- Dr Eisa ALanazi
-- Dr Mazen Melibari
-- Dr Hana'a Yamani
+- [Dr Mourad Mars (https://homepage.com)
+- [Dr Khaled Hatem Motairi] (https://homepage.com)
+- [Dr Fahad AlDosari] (https://homepage.com)
+- [Dr Eisa ALanazi] (https://homepage.com)
+- [Dr Mazen Melibari] (https://homepage.com)
+- [Dr Hana'a Yamani] (https://homepage.com)
 
 **CORK Institute of Thechnology & ADAPT Centre - Ireland**
 
-- Dr Haithem Afli
-- Dr Debasis Ganguly (Researcher - IBM Ireland)
+- [Dr Haithem Afli] (https://homepage.com)
+- [Dr Debasis Ganguly](https://homepage.com) (Researcher - IBM Ireland)
 
 **LIUM Lab - Le Mans University - France**
 
-- Dr Fethi Bougares
-- Dr Loïc BARRAULT
+- [Dr Fethi Bougares] (https://homepage.com)
+- [Dr Loïc BARRAULT] (https://homepage.com)
 ```
 ## **Project components**
 
