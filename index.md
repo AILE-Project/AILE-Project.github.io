@@ -35,9 +35,9 @@ The duration of the project is 3 Years.
 **CORK Institute of Thechnology & ADAPT Centre - Ireland**
 
 - Dr Haithem Afli (Co-PI)
-- Dr Debasis Ganguly (Researcher | IBM Ireland)
-- Dr Chao-Hong Liu (ADAPT - Ireland)
-- Pintu Lohar (PhD student  - ADAPT - Ireland)
+- Dr Debasis Ganguly (Researcher | IBM Ireland) as Research Assistant
+- Dr Chao-Hong Liu (ADAPT - Ireland) as Research Assistant
+- Pintu Lohar (PhD student  - ADAPT - Ireland) as Research Assistant
 
 **LIUM Lab - Le Mans University - France**
 
