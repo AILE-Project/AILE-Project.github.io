@@ -28,18 +28,22 @@ The duration of the project is 3 Years.
 - Dr Mazen Melibari (Co-PI)
 - Dr Hana'a Yamani (Co-PI)
 - Dr Hassan As-Sabbagh (Co-PI)
-- Prof Muhammad Arif Syed Hamid(Research Assistant)
+- Research Assistant - Nourhene Farah Mars (KSA)
+- Research Assistant - Batool Hamawy (MSc Student  - KSA)
+- Research Assistant (1 MSc student - KSA)
 
 **CORK Institute of Thechnology & ADAPT Centre - Ireland**
 
 - Dr Haithem Afli (Co-PI)
 - Dr Debasis Ganguly (Researcher | IBM Ireland)
 - Dr Chao-Hong Liu (ADAPT - Ireland)
+- Pintu Lohar (PhD student  - ADAPT - Ireland)
 
 **LIUM Lab - Le Mans University - France**
 
 - Dr Fethi Bougares (Co-PI)
 - Dr Loïc BARRAULT (Co-PI)
+- Research Assistant
 ```
 ## **Project components**
 
