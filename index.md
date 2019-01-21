@@ -68,5 +68,6 @@ List of publications.
 This research is supported by the International Collaboration Initiative launched by the Research and Development Office [RDO](https://rdo.moe.gov.sa). Ministry of Education - Kingdom of Saudi Arabia.
 ### Contact
 
-For more details please contact: 
-Mourad Mars (Project coordinator): msmars (at) uqu.edu.sa
+For more details please contact:
+
+Mourad Mars (Principal Investigator & Project Coordinator): msmars (at) uqu.edu.sa
