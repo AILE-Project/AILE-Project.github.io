@@ -1,4 +1,4 @@
-![Image](/Project.jpg)
+![Image](/Project2.jpg)
 
 ## General Overview
 
