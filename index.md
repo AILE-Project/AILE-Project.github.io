@@ -15,7 +15,7 @@ This project intend to produce ground-breaking eLearning innovations. Our object
 ```markdown
 ### Duration
 
-The duration of the project is 3 Years.
+The project duration is 3 Years.
 
 ### Collaborators & Team members
 
