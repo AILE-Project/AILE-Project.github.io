@@ -70,7 +70,7 @@ List of publications.
 ## **Acknowledgment**
 
 This research project is fully supported by the International Collaboration Initiative launched by the Research and Development Office [RDO](https://rdo.moe.gov.sa). Ministry of Education - Kingdom of Saudi Arabia. This project is in line with the objectives of KSA Vision 2030.
-### **Contact**
+## **Contact**
 
 For more details please contact:
 
