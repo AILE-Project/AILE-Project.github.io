@@ -28,7 +28,7 @@ The project duration is 3 Years.
 - Dr Mazen Melibari (Co-PI)
 - Dr Hana'a Yamani (Co-PI)
 - Dr Hassan As-Sabbagh (Co-PI)
-- Research Assistant - Nourhene Farah Mars (KSA)
+- Research Assistant - Nourhene Farah Mars (KSA) (Co-PI)
 - Research Assistant - Batool Hamawy (MSc Student  - KSA)
 - Research Assistant (1 MSc student - KSA)
 
